@@ -1,1 +1,1 @@
-# Project Sample [![Build Status](https://travis-ci.org/azatmagdeev/bonus-homework.svg?branch=master)](https://travis-ci.org/azatmagdeev/bonus-homework)
+# Project Sample [![Build Status](https://travis-ci.org/azatmagdeev/bonus-homework.svg?branch=master)](https://travis-ci.org/azatmagdeev/bonus-homework) [![codecov](https://codecov.io/gh/azatmagdeev/bonus-homework/branch/master/graph/badge.svg)](https://codecov.io/gh/azatmagdeev/bonus-homework)
