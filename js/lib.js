@@ -1,11 +1,13 @@
 export function calculateBonus(sales) {
     let total = 0;
+    const bonusedSale = 10000;
+    const bonus = 0.05;
 
     for (const sale of sales) {
-        if (sale > 10000){
-            total = total + sale - 10000;
+        if (sale > bonusedSale){
+            total = total + sale - bonusedSale;
         }
     }
-    total = total * 0.05;
+    total = total * bonus;
     return total;
 }
